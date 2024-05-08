@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Adidas Converter</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="nama">Nama</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_data">Ubah Data</string>
+    <string name="invalid">Pengisian Data Tidak Boleh Kosong!</string>
+    <string name="invalid_ukuran">Ukuran Harus Lebih Dari 40</string>
+    <string name="lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus Data</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+
+    //String Convert
+    <string name="enam">6</string>
+    <string name="tujuh">7</string>
+    <string name="delapan">8</string>
+    <string name="sembilan">9</string>
+    <string name="sepuluh">10</string>
+    <string name="sebelas">11</string>
+    <string name="dua_belas">12</string>
+
+    <string name="dua_belas_lebih">12++</string>
+    <string name="sebelas_lebih">11++</string>
+</resources>
